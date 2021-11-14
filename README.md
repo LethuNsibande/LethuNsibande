@@ -59,8 +59,3 @@ Final-Year Student IT Student 👨‍🎓, Microsoft Learn Student Ambassador �
 ## 😄 Pronouns: 
 
 - He/Him/His 👨
-  
-  
-## ⚡ Fun fact:
-
-
