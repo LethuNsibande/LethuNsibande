@@ -10,7 +10,7 @@
  </h2>
  
 <h3 align="center">
-Computer Science Honours Student 👨‍🎓, Microsoft Learn Student Ambassador 💻, and Google Developer Student Club Lead 👔!
+CS Honours Student 👨‍🎓, BSc IT Graduate 🎓, Microsoft Learn Student Ambassador 💻, and Google Developer Student Club Lead 👔!
 </h3> 
 
 ## 📫 How to reach me
@@ -22,8 +22,7 @@ Computer Science Honours Student 👨‍🎓, Microsoft Learn Student Ambassador
 
 ## 🔭 I’m currently working on
 
-- Degree related school projects
-- Mastering Java in Android Development
+- Honours Degree related school projects
 - Self-tutoring Kotlin
 - Establishing my personal brand and online presence
 
