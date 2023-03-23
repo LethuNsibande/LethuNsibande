@@ -10,15 +10,13 @@
  </h2>
  
 <h3 align="center">
-Final-Year Student IT Student 👨‍🎓, Microsoft Learn Student Ambassador 💻, and Google Developer Student Club Lead 👔!
+Computer Science Honours Student 👨‍🎓, Microsoft Learn Student Ambassador 💻, and Google Developer Student Club Lead 👔!
 </h3> 
 
 ## 📫 How to reach me
 
 <p align="center">
-<a href="https://web.facebook.com/lethu.nsibande.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/lereal_nsibande/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/LeReal_Nsibande"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lethukuthula-nsibande-277771179/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://dev.to/lethunsibande"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
